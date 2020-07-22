@@ -1,0 +1,2 @@
+# regularity_via_online_opt
+ Szemer ́edi’s regularity lemma is a fundamental result in graph theory, in this work we revisit proofs of the lemma that are done via methods borrowed from online optimisation [1], [2]. We will try to give an intuition of why the particular method from online optimisation might be well suited for this problem. We also give a proof for a slight variant of the regularity closely following the strategy in [2].
